@@ -6,6 +6,12 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Básico.iml" filepath="$PROJECT_DIR$/.idea/Básico.iml" />
       <module fileurl="file://$PROJECT_DIR$/CaixaDeDialogo/CaixaDeDialogo.iml" filepath="$PROJECT_DIR$/CaixaDeDialogo/CaixaDeDialogo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Calculadora/Calculadora.iml" filepath="$PROJECT_DIR$/Calculadora/Calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturaForEach/EstruturaForEach.iml" filepath="$PROJECT_DIR$/EstruturaForEach/EstruturaForEach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Funções01/Funções01.iml" filepath="$PROJECT_DIR$/Funções01/Funções01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Funções02/Funções02.iml" filepath="$PROJECT_DIR$/Funções02/Funções02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PreenchendoVetor/PreenchendoVetor.iml" filepath="$PROJECT_DIR$/PreenchendoVetor/PreenchendoVetor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramaMédia/ProgramaMédia.iml" filepath="$PROJECT_DIR$/ProgramaMédia/ProgramaMédia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vetores/Vetores.iml" filepath="$PROJECT_DIR$/Vetores/Vetores.iml" />
     </modules>
   </component>
 </project>
