@@ -3,7 +3,17 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ContaBanco/ContaBanco.iml" filepath="$PROJECT_DIR$/ContaBanco/ContaBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CriandoClassesEObjetos/CriandoClassesEObjetos.iml" filepath="$PROJECT_DIR$/CriandoClassesEObjetos/CriandoClassesEObjetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulamento/Encapsulamento.iml" filepath="$PROJECT_DIR$/Encapsulamento/Encapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercício001/Exercício001.iml" filepath="$PROJECT_DIR$/Exercício001/Exercício001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Herança/Herança.iml" filepath="$PROJECT_DIR$/Herança/Herança.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MétodosEspeciais/MétodosEspeciais.iml" filepath="$PROJECT_DIR$/MétodosEspeciais/MétodosEspeciais.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/POO.iml" filepath="$PROJECT_DIR$/.idea/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polimorfismo01/Polimorfismo01.iml" filepath="$PROJECT_DIR$/Polimorfismo01/Polimorfismo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polimorfismo02/Polimorfismo02.iml" filepath="$PROJECT_DIR$/Polimorfismo02/Polimorfismo02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetoPessoas/ProjetoPessoas.iml" filepath="$PROJECT_DIR$/ProjetoPessoas/ProjetoPessoas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetoYoutube/ProjetoYoutube.iml" filepath="$PROJECT_DIR$/ProjetoYoutube/ProjetoYoutube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RelacionamentoEntreClasses/RelacionamentoEntreClasses.iml" filepath="$PROJECT_DIR$/RelacionamentoEntreClasses/RelacionamentoEntreClasses.iml" />
     </modules>
   </component>
 </project>
