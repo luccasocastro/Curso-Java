@@ -4,7 +4,7 @@ public class Main {
         Video[] v = new Video[3];
         v[0] = new Video("Aula 01 de POO");
         v[1] = new Video("Aula 12 de HTML5");
-        v[2] = new Video("Java IntermediÃ¡rio");
+        v[2] = new Video("Java Intermediário");
 
         //Nome, idade, sexo, login
         Gafanhoto[] g = new Gafanhoto[2];
