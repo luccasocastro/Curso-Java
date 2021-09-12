@@ -1,4 +1,5 @@
 import javax.swing.*;
+import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
@@ -9,8 +10,17 @@ public class LogicoSwing extends JFrame{
     private JLabel lblDiv;
     private JLabel lblRaiz;
     private JPanel mainPanel;
+    private JButton btnSair;
+
+    Color cor1 = new Color(12,80,247);
+    Color cor2 = new Color(12,237,219);
 
     public LogicoSwing(){
+
+        mainPanel.setBackground(cor1);
+        btnCalc.setBackground(cor2);
+        btnSair.setBackground(cor2);
+
         setContentPane(mainPanel);
         setTitle("Calculadora");
         setSize(450,300);
@@ -27,6 +37,12 @@ public class LogicoSwing extends JFrame{
                 int resRaiz = (int) Math.sqrt(num1);
                 lblDiv.setText(Integer.toString(resDiv));
                 lblRaiz.setText(Integer.toString(resRaiz));
+            }
+        });
+        btnSair.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent actionEvent) {
+                System.exit(0);
             }
         });
     }
