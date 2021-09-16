@@ -30,21 +30,21 @@ public class Luta {
             int vencedor = aleatorio.nextInt(3);
 
             switch (vencedor) {
-                case 0 -> {
+                case 0:
                     System.out.println("## TEMOS UM EMPATE!! ##");
                     this.desafiado.empatarLuta();
                     this.desafiante.empatarLuta();
-                }
-                case 1 -> {
+                break;
+                case 1:
                     System.out.println("## O LUTADOR " + this.desafiado.getNome() + " GANHOU A LUTA!! ##");
                     this.desafiado.ganharLuta();
                     this.desafiante.perderLuta();
-                }
-                case 2 -> {
+                break;
+                case 2:
                     System.out.println("## O LUTADOR " + this.desafiante.getNome() + " GANHOU A LUTA!! ##");
                     this.desafiado.perderLuta();
                     this.desafiante.ganharLuta();
-                }
+                break;
             }
         }else {
             System.out.println("A luta não pode acontecer!");
