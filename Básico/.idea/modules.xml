@@ -9,7 +9,6 @@
       <module fileurl="file://$PROJECT_DIR$/CaixaDeDialogo/CaixaDeDialogo.iml" filepath="$PROJECT_DIR$/CaixaDeDialogo/CaixaDeDialogo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Calculadora/Calculadora.iml" filepath="$PROJECT_DIR$/Calculadora/Calculadora.iml" />
       <module fileurl="file://$PROJECT_DIR$/EstruturaForEach/EstruturaForEach.iml" filepath="$PROJECT_DIR$/EstruturaForEach/EstruturaForEach.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Ex01/Ex01.iml" filepath="$PROJECT_DIR$/Ex01/Ex01.iml" />
       <module fileurl="file://$PROJECT_DIR$/FlowLayout/FlowLayout.iml" filepath="$PROJECT_DIR$/FlowLayout/FlowLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/Funções01/Funções01.iml" filepath="$PROJECT_DIR$/Funções01/Funções01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Funções02/Funções02.iml" filepath="$PROJECT_DIR$/Funções02/Funções02.iml" />
@@ -19,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/LogicoSwing/LogicoSwing.iml" filepath="$PROJECT_DIR$/LogicoSwing/LogicoSwing.iml" />
       <module fileurl="file://$PROJECT_DIR$/ModificandoCores/ModificandoCores.iml" filepath="$PROJECT_DIR$/ModificandoCores/ModificandoCores.iml" />
       <module fileurl="file://$PROJECT_DIR$/ModificandoFonte/ModificandoFonte.iml" filepath="$PROJECT_DIR$/ModificandoFonte/ModificandoFonte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex01/NúmeroPrimo.iml" filepath="$PROJECT_DIR$/Ex01/NúmeroPrimo.iml" />
       <module fileurl="file://$PROJECT_DIR$/PreenchendoVetor/PreenchendoVetor.iml" filepath="$PROJECT_DIR$/PreenchendoVetor/PreenchendoVetor.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProgramaMédia/ProgramaMédia.iml" filepath="$PROJECT_DIR$/ProgramaMédia/ProgramaMédia.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vetores/Vetores.iml" filepath="$PROJECT_DIR$/Vetores/Vetores.iml" />
