@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Básico/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/Básico/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Básico/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/Básico/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Básico/BorderLayout/BorderLayout.iml" filepath="$PROJECT_DIR$/Básico/BorderLayout/BorderLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Básico/CaixaDeDialogo/CaixaDeDialogo.iml" filepath="$PROJECT_DIR$/Básico/CaixaDeDialogo/CaixaDeDialogo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Básico/Calculadora/Calculadora.iml" filepath="$PROJECT_DIR$/Básico/Calculadora/Calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/Carteira de trabalho/Carteira de trabalho.iml" filepath="$PROJECT_DIR$/POO/Carteira de trabalho/Carteira de trabalho.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/ContaBanco/ContaBanco.iml" filepath="$PROJECT_DIR$/POO/ContaBanco/ContaBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/CriandoClassesEObjetos/CriandoClassesEObjetos.iml" filepath="$PROJECT_DIR$/POO/CriandoClassesEObjetos/CriandoClassesEObjetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Curso-Java.iml" filepath="$PROJECT_DIR$/.idea/Curso-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/Encapsulamento/Encapsulamento.iml" filepath="$PROJECT_DIR$/POO/Encapsulamento/Encapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/Encapsulamento02/Encapsulamento02.iml" filepath="$PROJECT_DIR$/POO/Encapsulamento02/Encapsulamento02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Básico/EstruturaForEach/EstruturaForEach.iml" filepath="$PROJECT_DIR$/Básico/EstruturaForEach/EstruturaForEach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Básico/Ex01/Ex01.iml" filepath="$PROJECT_DIR$/Básico/Ex01/Ex01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/Exercício001/Exercício001.iml" filepath="$PROJECT_DIR$/POO/Exercício001/Exercício001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Básico/FlowLayout/FlowLayout.iml" filepath="$PROJECT_DIR$/Básico/FlowLayout/FlowLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Básico/Funções01/Funções01.iml" filepath="$PROJECT_DIR$/Básico/Funções01/Funções01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Básico/Funções02/Funções02.iml" filepath="$PROJECT_DIR$/Básico/Funções02/Funções02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Básico/GridLayout/GridLayout.iml" filepath="$PROJECT_DIR$/Básico/GridLayout/GridLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/Herança/Herança.iml" filepath="$PROJECT_DIR$/POO/Herança/Herança.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Básico/InserindoImagens/InserindoImagens.iml" filepath="$PROJECT_DIR$/Básico/InserindoImagens/InserindoImagens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Básico/JanelaSwing02/JanelaSwing02.iml" filepath="$PROJECT_DIR$/Básico/JanelaSwing02/JanelaSwing02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Básico/LogicoSwing/LogicoSwing.iml" filepath="$PROJECT_DIR$/Básico/LogicoSwing/LogicoSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Básico/ModificandoCores/ModificandoCores.iml" filepath="$PROJECT_DIR$/Básico/ModificandoCores/ModificandoCores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Básico/ModificandoFonte/ModificandoFonte.iml" filepath="$PROJECT_DIR$/Básico/ModificandoFonte/ModificandoFonte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/MétodosEspeciais/MétodosEspeciais.iml" filepath="$PROJECT_DIR$/POO/MétodosEspeciais/MétodosEspeciais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/Polimorfismo01/Polimorfismo01.iml" filepath="$PROJECT_DIR$/POO/Polimorfismo01/Polimorfismo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/Polimorfismo02/Polimorfismo02.iml" filepath="$PROJECT_DIR$/POO/Polimorfismo02/Polimorfismo02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Básico/PreenchendoVetor/PreenchendoVetor.iml" filepath="$PROJECT_DIR$/Básico/PreenchendoVetor/PreenchendoVetor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Básico/ProgramaMédia/ProgramaMédia.iml" filepath="$PROJECT_DIR$/Básico/ProgramaMédia/ProgramaMédia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/ProjetoPessoas/ProjetoPessoas.iml" filepath="$PROJECT_DIR$/POO/ProjetoPessoas/ProjetoPessoas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/ProjetoYoutube/ProjetoYoutube.iml" filepath="$PROJECT_DIR$/POO/ProjetoYoutube/ProjetoYoutube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projetos/Projetos.iml" filepath="$PROJECT_DIR$/Projetos/Projetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/RelacionamentoEntreClasses/RelacionamentoEntreClasses.iml" filepath="$PROJECT_DIR$/POO/RelacionamentoEntreClasses/RelacionamentoEntreClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/Universidade/Universidade.iml" filepath="$PROJECT_DIR$/POO/Universidade/Universidade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Básico/Vetores/Vetores.iml" filepath="$PROJECT_DIR$/Básico/Vetores/Vetores.iml" />
+    </modules>
+  </component>
+</project>
