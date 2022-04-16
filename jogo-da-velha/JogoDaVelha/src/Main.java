@@ -5,5 +5,7 @@ public class Main {
         System.out.println("Agora eu faço aniversário!");
         luccas.fazerAniversario();
         System.out.println(luccas.getIdade());
+
+        Pessoa maria = new Pessoa("Maria", 48, 70.0, 1.63);
     }
 }
